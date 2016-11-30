@@ -1,0 +1,25 @@
+Grid 
+jenkins 
+Maven 
+Wait 
+Polling 
+ScreenShots 
+Email
+appium
+Read/write from excel
+window handels
+broken links 
+framework
+database testing usring selenium 
+desire capabilities
+scroll down 
+image pixels 
+Autoit 
+TestNG
+iframes
+Assertion 
+Css selector 
+POM 
+DOM
+Dynamic xpath 
+Window handel alerts
