@@ -1,0 +1,38 @@
+To check git version
+git --version
+
+To make local folder git repository
+git init 
+
+How to add local repository with local repository
+git remote add origin(any word need to remember)
+
+How to check existing remote repository
+git remote -v 
+
+How to remove existing remote repository
+git remote remove origin(Name of the repository)
+
+How to check any existing file in repository
+git status
+
+how to add file in repository 
+git add fileName / git add . / git add --all
+
+How to unstage file from repository
+git rm --cached  filename 
+
+How to ignore any file in remote repository 
+Make a file by extion .gitignore and enter the file name to  be ignore into that text file. 
+
+How to add author into repository 
+git config --global user.name "username" / git config --global user.email "emailid"
+
+How to commit staged file locally
+git commit -m "Intial commit"
+
+How to check logs in git 
+git log
+
+
+
